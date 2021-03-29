@@ -17,12 +17,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpeg)
+![Screenshot](https://i.imgur.com/B90qhPE.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/JoelAzevedo/profile-card-component)
+- Live Site URL: [Live site URL here](https://joelazevedo.github.io/profile-card-component/)
 
 ## My process
 
