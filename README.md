@@ -21,8 +21,6 @@ Vanilla solution for the [Profile card component challenge on Frontend Mentor](h
 - [Solution URL](https://www.frontendmentor.io/solutions/frontend-mentor-profile-card-component-solution-Nq8qxpXgq)
 - [Live site URL](https://joelazevedo.github.io/profile-card-component/)
 
-## My process
-
 ### Built with
 
 - HTML
