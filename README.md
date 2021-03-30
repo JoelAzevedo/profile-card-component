@@ -7,11 +7,8 @@ Vanilla solution for the [Profile card component challenge on Frontend Mentor](h
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
