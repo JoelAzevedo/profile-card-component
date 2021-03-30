@@ -80,35 +80,21 @@ body {
 .card--bottom {
   height: 88px;
   border-top: 1px solid#efefef;
-  display: flex;
-  align-items: center;
-  width: 100%;
-}
-.card--bottom--left {
-  margin-left: 38px;
-  margin-top: 2px;
-}
-.card--bottom--center {
-  margin-top: 2px;
-  margin-left: 4px;
-}
-.card--bottom--right {
-  margin-right: 28px;
-  margin-top: 2px;
+  display: grid;
+  place-content: center;
+  grid-template-columns: 100px 0px 100px 0px 100px 0px
 }
 .card--bottom > div {
-  width: 33%;
-}
-.card--bottom > div > div {
   display: flex;
   flex-direction: column;
   align-items: center;
+  grid-column: span 2;
 }
-.card--bottom > div > div >span {
+.card--bottom > div >span {
   font-size: 18px;
   font-weight: 700;
 }
-.card--bottom > div > div > label {
+.card--bottom > div > label {
   font-size: 10px;
   color: hsl(227, 10%, 46%);
   letter-spacing: 1.5px;
