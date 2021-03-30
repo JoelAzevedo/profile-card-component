@@ -13,7 +13,7 @@ body {
   background-color: hsl(185, 75%, 39%);
   background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
   background-repeat: no-repeat, no-repeat;
-  background-position: right 52vw bottom 41vh, left 48vw top 50.5vh;
+  background-position: right 51.1vw bottom 41vh, left 49vw top 51.1vh;
 }
 
 /* Card */
