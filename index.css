@@ -10,23 +10,10 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* background: ; */
   background-color: hsl(185, 75%, 39%);
-}
-
-/* Background */
-.background--top {
-  position: absolute;
-  margin-left: -200%;
-  margin-top: -200%;
-}
-.background--bottom {
-  position: absolute;
-}
-.background--top > img, .background--bottom > img {
-  width: 100%;
-  height: auto;
-  position: fixed;
+  background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 52vw bottom 41vh, left 48vw top 50.5vh;
 }
 
 /* Card */
@@ -34,9 +21,9 @@ body {
   width: 350px;
   height: 374px;
   border-radius: 15px;
-  box-shadow: 6px 6px 6px -6px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 6px 6px 6px -6px rgba(0,0,0,0.1);
-  -moz-box-shadow: 6px 6px 6px -6px rgba(0,0,0,0.1);
+  box-shadow: 10px 20px 60px hsl(185deg 76% 32%);
+  -webkit-box-shadow: 10px 20px 60px hsl(185deg 76% 32%);
+  -moz-box-shadow: 10px 20px 60px hsl(185deg 76% 32%);
   color: hsl(229, 23%, 23%);
   display: flex;
   flex-direction: column;
