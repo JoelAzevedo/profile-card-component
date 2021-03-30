@@ -28,9 +28,8 @@ This is my solution to the [Profile card component challenge on Frontend Mentor]
 
 ### Built with
 
-- HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML
+- CSS (Flexbox + Grid)
 
 ## Author
 
